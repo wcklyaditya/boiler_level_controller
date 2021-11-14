@@ -5,6 +5,8 @@ The project needs to monitor the level of water in a boiler, and open/close a va
 	2. [video](https://youtu.be/0Z5sKuWwWZ8)
 	3. [2S RC LiPO 7.4V 5200mA](https://www.amazon.com/Zeee-5200mAh-Battery-Vehicles-Airplane/dp/B07MJ9H47D/ref=sr_1_7?keywords=2S+battery+for+power+supply+6-8.4V&qid=1636903390&s=toys-and-games&sr=1-7)
 	4. [60kg 6Nm 7.4V Servo](https://www.amazon.com/ANNIMOS-Digital-Voltage-Stainless-Waterproof/dp/B07KTSCN4)
+	5. [Level Shifter](https://www.pololu.com/product-info-merged/2595) to PWM control the servo
+	6. [DC-DC Converter](https://www.sparkfun.com/products/15208) for 7.4V to 5V conversion for ESP8266, and sensor
 2. Water Level Detection
 	1. [Capacitive Sensor](https://wiki.dfrobot.com/Non_Contact_Capacitive_Liquid_Level_Sensor_SKU_SEN0368)
 2. Housing to mount
